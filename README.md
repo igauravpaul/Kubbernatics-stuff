@@ -2,7 +2,7 @@
 
 A modern Trello/Slack hybrid for small teams to collaborate on tasks in real-time. Built with Rails 8, showcasing advanced features like WebSockets (ActionCable), real-time updates (Turbo Streams), drag-and-drop UI, and background job processing.
 
-## ✨ Key Features
+##Features
 
 ### Core Features
 - **Projects**: Create and manage multiple projects
